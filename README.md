@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 Computer Science graduate student
 
-Intersted in Computer networking 🌐 and Cyber Security (Blue Side) 🔵
+Interested in Computer networking 🌐 and Cyber Security (Blue Side) 🔵
 
