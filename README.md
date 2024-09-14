@@ -1,17 +1,3 @@
-<!--
-**SINAebrahimi99/SinaEbrahimi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Sina Ebrahimi
 
 Computer Science graduate student
@@ -34,7 +20,9 @@ yes 18 to 24 is long enough to get your masters degree but im not that smart
 (and also some courses like "human in islam" and "Islamic thought" are hard to pass)
 </details>
 
+From 2022 to 2023, I completed an internship as a Security Analyst at [SabaSystemSadra](www.ssystems.ir). 
 
+Since 2023, I have been working as a SOC Analyst Tier 1 at the Central Securities Depository of Iran ([CSDI](http://www.csdiran.ir/)).
 
 
 
