@@ -22,7 +22,7 @@ yes 18 to 24 is long enough to get your masters degree but im not that smart
 
 From 2022 to 2023, I completed an internship as a Security Analyst at [SabaSystemSadra](https://www.ssystems.ir). 
 
-Since 2023, I have been working as a SOC Analyst Tier 1 at the Central Securities Depository of Iran ([CSDI](https://www.csdi.ir)).
+Since 2023, I have been working as a SOC Analyst Tier 1 at the Central Securities Depository of Iran ([CSDI](https://www.csdiran.ir)).
 
 
 
