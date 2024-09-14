@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Computer Science graduate student
 
-Interested in Computer networking 🌐 and Cyber Security (Blue Side) 🔵
+Interested in Computer Networking 🌐 and Cyber Security (Blue Side) 🔵
 
 This GitHub page is a repository for my projects, Labs, and training.
 
