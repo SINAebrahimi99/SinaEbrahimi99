@@ -4,7 +4,7 @@ Computer Science graduate student
 
 Interested in Computer Networking 🌐 and Cyber Security (Blue Side) 🔵
 
-This GitHub page is a repository for my little projects, Labs, and training.
+This GitHub page is a repository for my training Labs and mini Projects.
 
 And also a place to act as my second CV.
 
