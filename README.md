@@ -10,9 +10,9 @@ And also a place to act as my second CV.
 
 ## About Me
 
-I like finding anomalies, misconfiguration and suspicious behaviors in systems and documenting workflows and procedures
+I like finding anomalies, misconfiguration and suspicious behaviors in systems and implementing security and hardening protocols to ensure the company achieves maximum protection
 
-and implementing security and hardening protocols to ensure the company achieves maximum protection 
+and i love documenting workflows and procedures
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
