@@ -10,6 +10,12 @@ And also a place to act as my second CV.
 
 ## About Me
 
+I like finding anomalies, misconfiguration and suspicious behaviors in systems and documenting workflows and procedures
+
+and implementing security and hardening protocols to ensure the company achieves maximum protection 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 I studied Math and Physics at Allameh Tabatabaei High School. 
 
 after that, from 2018 to 2024, I continued my bachelor of education in Computer Science at Amir Kabir University of Technology (AUT)
